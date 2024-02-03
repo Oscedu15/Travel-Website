@@ -48,7 +48,7 @@ const Navbar = ({handlerOrderPopup}) => {
           <div className="flex justify-between items-center">
             {/* logo section */}
             <div>
-              <Link to="/">
+              <Link to="/Travel-Website">
                 <img
                   src={Logo}
                   alt="logo"
