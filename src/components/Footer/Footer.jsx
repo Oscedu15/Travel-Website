@@ -151,7 +151,7 @@ const Footer = () => {
                           window.scrollTo(0, 0);
                         }}
                       >
-                        <span>&#11162;</span>
+                        <span> &#11162;</span>
                         <span>{title}</span>
                       </Link>
                     </li>
