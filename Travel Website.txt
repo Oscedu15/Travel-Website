@@ -1,0 +1,20 @@
+Para iniciar un proyecto en vite 
+
+-- Abrimos en la terminal de vscode y ejecutamos npm create vite@latest
+
+Luego le damos Y, para confirmar la creacion del proyecto.
+
+Estando dentro del proyecto ejecutamos : npm install
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install react-icons
+
+npm install react-router-dom
+
+npm i aos
+
+npm i react-slick
+
+npm i slick-carousel
